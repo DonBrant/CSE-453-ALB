@@ -1,2 +1,1 @@
-# CSE 453 ALB
- 
+# CSE 453 Automated Locker Bank
